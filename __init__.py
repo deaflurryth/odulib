@@ -2,10 +2,10 @@
 :authors: deaflurryth
 
 :Functions: 
-    odulib.Interface() - for run Proogramm interface
+    odulib.odu() - for run Proogramm interface
     
 """
-from .odulib import *
+from .odulib import oduf
 __author__ = 'deaflurryth'
-__version__ = '1.2'
+__version__ = '1.5'
 
