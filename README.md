@@ -2,4 +2,4 @@
 # usage:
 import odulib
 
-odulib.oduf()
+odu.oduf()

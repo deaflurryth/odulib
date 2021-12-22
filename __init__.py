@@ -7,5 +7,5 @@
 """
 from .odulib import oduf
 __author__ = 'deaflurryth'
-__version__ = '1.5'
+__version__ = '1.6'
 

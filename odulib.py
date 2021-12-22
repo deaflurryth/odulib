@@ -1,9 +1,9 @@
-    import numpy as np
-    import numexpr as ne
-    from math import *
-    from scipy.integrate import odeint
-    import matplotlib.pyplot as plt
-    import mpmath as mp
+import numpy as np
+import numexpr as ne
+from math import *
+from scipy.integrate import odeint
+import matplotlib.pyplot as plt
+import mpmath as mp
 
 def oduf():
     """Just Interface.
