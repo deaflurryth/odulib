@@ -1,12 +1,10 @@
 from setuptools import setup, find_packages
- 
+long_description= '''Python module for ODU tasks'''
 setup(name='odulib',
-      version='0.1',
+      version='1.2',
       url='https://github.com/deaflurryth/odulib',
       license='MIT',
       author='deaflurryth',
-      author_email='amflurry@icloud.com',
+      author_email='deaflurryth@icloud.com',
       description='Add static script_dir() method to Path',
-      packages=find_packages(exclude=['tests']),
-      long_description=open('README.md').read(),
       zip_safe=False)
