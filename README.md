@@ -1,5 +1,5 @@
 # odulib
 # usage:
-from odulib import odu
+import odulib
 
 odulib.oduf()
