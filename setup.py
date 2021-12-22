@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 long_description= '''Python module for ODU tasks'''
 setup(name='odulib',
-      version='1.6',
+      version='1.7',
       url='https://github.com/deaflurryth/odulib',
       license='MIT',
       author='deaflurryth',
